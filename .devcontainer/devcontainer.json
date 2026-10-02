@@ -1,6 +1,7 @@
 {
   "name": "Vibe coding workshop",
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  // Klein Node-image (0,6 GB) in plaats van het universal-image (3,8 GB): een nieuwe Codespace start veel sneller.
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:24",
   // 2 cores is genoeg en verbruikt de gratis Codespaces-uren half zo snel als 4.
   "hostRequirements": {
     "cpus": 2
