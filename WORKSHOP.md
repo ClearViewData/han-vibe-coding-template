@@ -6,7 +6,9 @@ Je werkt in een Codespace: een complete ontwikkelomgeving in je browser. Je app 
 
 ## 2. Je AI-assistent
 
-Open Codex, de AI-assistent, via het icoon in de zijbalk en log in met het workshop-account. Hoe dat gaat, vertellen we tijdens de workshop.
+Open Codex via het icoon in de zijbalk en log in met het workshop-account. Hoe dat gaat, vertellen we tijdens de workshop.
+
+Lukt inloggen bij Codex niet en heb je zelf een Claude Pro- of Max-abonnement? Dan kun je ook Claude Code gebruiken. Dat staat ook in de zijbalk.
 
 De assistent leest automatisch de instructies in [AGENTS.md](AGENTS.md). Daarin staat hoe hij met jou en met dit project moet omgaan. Je mag dat bestand aanpassen.
 
@@ -34,7 +36,10 @@ Je werk is pas echt veilig als het in git staat en op GitHub. De assistent doet 
 
 ## 6. Kwaliteitstoets
 
-Laat Codex je project toetsen en een adviesrapport schrijven. Typ in de chat: *"Doe de kwaliteitstoets."*
+Laat de assistent je project toetsen en een adviesrapport schrijven:
+
+- **Codex:** typ *"Doe de kwaliteitstoets."*
+- **Claude Code:** typ `/kwaliteitstoets`
 
 De assistent vraagt eerst welk niveau je wilt bereiken, wie de app gebruikt en met welke gegevens. Het rapport komt in een bestand `KWALITEITSRAPPORT-<datum>.md`.
 

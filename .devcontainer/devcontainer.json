@@ -19,8 +19,9 @@
       ]
     },
     "vscode": {
-      // Codex, de AI-assistent die we in de workshop gebruiken.
+      // Codex is de standaard. Claude Code is de reserve voor wie een eigen Claude-abonnement heeft.
       "extensions": [
+        "anthropic.claude-code",
         "openai.chatgpt"
       ]
     }

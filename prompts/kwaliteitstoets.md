@@ -28,13 +28,13 @@ Je hebt drie antwoorden nodig. Staan ze nog niet in het bericht van de gebruiker
 Breng het project in kaart:
 
 - mappenstructuur, talen en frameworks (`package.json` en vergelijkbare bestanden);
-- README, ontwerp- of specificatiedocumenten en instructiebestanden zoals `AGENTS.md`;
+- README, ontwerp- of specificatiedocumenten en instructiebestanden zoals `AGENTS.md` of `CLAUDE.md`;
 - waar gegevens vandaan komen, waar ze worden opgeslagen en naar welke externe diensten ze gaan;
 - of de app zelf AI gebruikt (bijvoorbeeld een API van OpenAI of Anthropic).
 
 Is er een ontwerp- of specificatiedocument, controleer dan ook of de app doet wat daarin staat.
 
-De bestanden van de workshop-omgeving (`WORKSHOP.md`, `prompts/` en `.devcontainer/`) hoef je niet te beoordelen.
+De bestanden van de workshop-omgeving (`WORKSHOP.md`, `prompts/`, `.claude/` en `.devcontainer/`) hoef je niet te beoordelen.
 
 ## Stap 3 – Controles uitvoeren
 
