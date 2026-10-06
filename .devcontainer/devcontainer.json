@@ -19,9 +19,8 @@
       ]
     },
     "vscode": {
-      // Laat alleen de AI-assistent staan die we in de workshop gebruiken.
+      // Codex, de AI-assistent die we in de workshop gebruiken.
       "extensions": [
-        "anthropic.claude-code",
         "openai.chatgpt"
       ]
     }
